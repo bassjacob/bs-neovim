@@ -1,0 +1,11 @@
+{
+  "name": "bs-neovim",
+  "package-specs": [
+    "commonjs"
+  ],
+  "sources": [
+    {
+      "dir": "src"
+    }
+  ]
+}
